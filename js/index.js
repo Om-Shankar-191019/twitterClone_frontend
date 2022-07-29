@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/tweets";
+const URL = "https://twitter-backend-om.herokuapp.com/tweets";
 let nextPageUrl = null;
 
 /**
