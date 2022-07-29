@@ -1,4 +1,4 @@
-const URL = "https://twitter-backend-om.herokuapp.com/tweets";
+const URL = "https://twitter-backend-jsonly.herokuapp.com/tweets";
 let nextPageUrl = null;
 
 /**
